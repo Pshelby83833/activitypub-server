@@ -1,4 +1,4 @@
-Perry shelby# ActivityPub Server
+Kevin Gates# ActivityPub Server
 
 An [ActivityPub](https://activitypub.rocks) server that can present Actors, create Objects, and deliver Activities.
 
